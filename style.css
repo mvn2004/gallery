@@ -80,12 +80,13 @@ body {
     text-align: left;
 }
 
-img #avatar{
-	border-radius: 50%;
-}
 #content img {    
     width: 389px;
 	padding: 10px;
+}
+
+#content img #avatar{
+	border-radius: 50%;
 }
 
 #content #box_text {
