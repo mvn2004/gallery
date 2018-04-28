@@ -82,7 +82,7 @@ body {
 
 #content img {    
     width: 389px;
-	padding: 10px;
+	margin-left: 25px;
 }
 
 #content img #avatar{
