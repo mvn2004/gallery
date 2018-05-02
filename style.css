@@ -96,7 +96,8 @@ body {
     width: 671px;
     background-color: #ffffff;
     float: right;
-    padding: 49px 48px 51px 76px;
+    padding: 70px 48px 51px 76px;
+	border-radius: 30px;
     margin-bottom:100px;
 }
 
